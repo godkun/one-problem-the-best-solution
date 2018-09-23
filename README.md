@@ -3,4 +3,14 @@
 <h3 align="center">北冥有鱼的笔记</h3>
 
 
-## 不定期更新中——
+### 基础面试题
+—— 持续更新中
+ - [用CSS使一个图片按照自己的中心在2秒钟旋转360度](https://github.com/godkun/one-problem-the-best-solution/issues/)
+ 
+### 中等面试题
+—— 持续更新中
+ - [程序员之禅](https://github.com/godkun/blog/issues/7)
+ 
+### 高级面试题
+—— 持续更新中
+ - []

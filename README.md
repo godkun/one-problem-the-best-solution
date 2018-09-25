@@ -9,8 +9,6 @@
  
 ### 中等面试题
 —— 持续更新中
- - [程序员之禅](https://github.com/godkun/blog/issues/7)
  
 ### 高级面试题
 —— 持续更新中
- - []
